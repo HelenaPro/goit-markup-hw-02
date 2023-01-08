@@ -4,7 +4,6 @@
     --background-color: #4D5AE5;
     --letter-spacing: 0.02em;
 }
-
 .list {
     list-style: none;
 }
@@ -14,7 +13,6 @@
 body {
 font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
 }
-
 /* ==============Components================ */
 .logo{
     font-family: 'Raleway', sans-serif;
@@ -28,7 +26,6 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     /* NAVY BLUE */
     color:var(--primary-text-color);
     text-decoration: none;
-    
 }
 .accent {
     /* IRIS */
@@ -61,6 +58,7 @@ font-family: 'Roboto', 'Verdana', 'Tahoma', sans-serif;
     color: var(--background-color);
 }
 .phone-number {
+    font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: var(--letter-spacing);
