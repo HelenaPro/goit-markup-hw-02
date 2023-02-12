@@ -72,10 +72,6 @@ body {
     color:var(--accent-color);
 }
 
-.text-footer {
-    color: #E7E9FC;
-    background: #2E2F42;
-}
 /* ==============/Components================ */
 
 
@@ -100,12 +96,10 @@ body {
     background-color: var(--logo-hover-color);
     letter-spacing: var(--letter-spacing);
     /* NAVY BLUE */
-    color:var(--primary-text-color);
-  }
-  .modal-btn:hover,
-  .modal-btn:focus {
-    background: var(--hover-btn-color);
-  }
+    }
+  .modal-btn:hover,{
+  .modal-btn:focus
+}
   .modal-btn:active{
     color: #FFFFFF;
     background-color: #404BBF;;
@@ -157,9 +151,9 @@ body {
     color: #E7E9FC;
     background: #2E2F42;
 }
-.footer-text {
+.text-footer {
     font-size: 16px;
     line-height: 1.5;
-  
-    color: var(--footer-text-color);
-  }
+    color: #E7E9FC;
+    background: #2E2F42;
+    } 
