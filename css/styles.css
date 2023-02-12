@@ -92,7 +92,7 @@ body {
     /* display: flex;
     align-items: center; */
     cursor: pointer;
-    color: var(--hero-text-color);
+    color: #FFFFFF;
     background-color: var(--logo-hover-color);
     letter-spacing: var(--letter-spacing);
     /* NAVY BLUE */
