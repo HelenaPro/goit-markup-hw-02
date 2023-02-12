@@ -95,11 +95,14 @@ body {
     line-height: 1.5;
     /* display: flex;
     align-items: center; */
-    letter-spacing: 0.04em;
-    color: #FFFFFF;
-    background-color: #4D5AE5;
     cursor: pointer;
-}
+    color: var(--hero-text-color);
+    background-color: var(--logo-hover-color);
+  }
+  .modal-btn:hover,
+  .modal-btn:focus {
+    background: var(--hover-btn-color);
+  }
 .portfolio-btn{
     color: var(--background-color);
     background: #F4F4FD;
