@@ -4,14 +4,14 @@
     --portfolio-btn-main-color: #f4f4fd;
     --portfolio-btn-txt-color: #4d5ae5;
     --studio-btn-color: #4d5ae5;
-    --studio-btn-txt-color: #ffff;
+    --studio-btn-txt-color: #ffffff;
     --background-btn-color: #404bbf;
     --hero-footer-background-color: #2e2f42;
     --accent-color: #4d5ae5;
     --menu-hover-color: #404bbf;
     --logo-footer-color: #f4f4fd;
     --text-footer-color: #e7e9fc;
-    --portfolio-btn-hover-txt-color: #ffff;
+    --portfolio-btn-hover-txt-color: #ffffff;
   }
   
   body {
@@ -145,13 +145,13 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--footer-txt-color);
+    color: var(--footer-text-color);
   }
   /*---------PORTFOLIO--------*/
   .portfolio-btn:hover,
   .portfolio-btn:focus {
     background: var(--background-btn-color);
-    color: var(--portfolio-btn-hover-txt-color);
+    color: var(--portfolio-btn-hover-text-color);
   }
   .portfolio-btn {
     font-family: "Roboto", sans-serif; 
@@ -161,7 +161,7 @@
     letter-spacing: 0.04em;
     cursor: pointer;
     background-color: var(--portfolio-btn-color);
-    color: var(--portfolio-btn-txt-color);
+    color: var(--portfolio-btn-text-color);
   }
   .portfolio-title {
     font-size: 20px;
@@ -173,5 +173,5 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--second-txt-color);
+    color: var(--second-text-color);
   }
