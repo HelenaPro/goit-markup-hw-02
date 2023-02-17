@@ -105,6 +105,7 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: var(--primary-text-color);
   }
   /*---------TEAM--------*/
   .team-title {
@@ -113,12 +114,14 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: var(--primary-text-color);
   }
   .suptitle {
     font-size: 20px;
     line-height: 1.2;
     text-align: center;
     letter-spacing: 0.02em;
+    color: var(--primary-text-color);
   }
   .job-text {
     font-size: 16px;
