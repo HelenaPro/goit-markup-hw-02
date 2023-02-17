@@ -9,6 +9,8 @@
     --portfolio-btn-txt-color: #4d5ae5;
     --background-btn-color: #404bbf;
     --hero-footer-background-color: #2e2f42;
+    --logo-footer-color: #f4f4fd;
+    --text-footer-color: #e7e9fc;
   }
   .list {
     list-style: none;
@@ -128,8 +130,6 @@
   /*---------FOOTER--------*/
   .footer {
     background-color: var(--hero-footer-background-color);
-    --logo-footer-color: #f4f4fd;
-    --text-footer-color: #e7e9fc;
   }
   .logo-footer {
     font-family: "Raleway", sans-serif;
