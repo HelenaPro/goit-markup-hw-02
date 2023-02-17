@@ -1,6 +1,7 @@
 :root {
-    --main-color: #2e2f42;
-    --second-txt-color: #434455;
+    --font-family: "Roboto", sans-serif;
+    --primari-text-color: #434455;
+    --secondari-text-color: #2e2f42;
     --portfolio-btn-main-color: #f4f4fd;
     --portfolio-btn-txt-color: #4d5ae5;
     --studio-btn-color: #4d5ae5;
@@ -137,14 +138,14 @@
     font-size: 18px;
     line-height: 1.16;
     align-items: center;
-    letter-spacing: 0.03em;
+    
     text-transform: uppercase;
     color: var(--footer-logo-color);
   }
   .text-footer {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    
     color: var(--footer-text-color);
   }
   /*---------PORTFOLIO--------*/
