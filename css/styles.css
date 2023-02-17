@@ -25,7 +25,7 @@
   }
   
   .work {
-    color: var(--studio-btn-txt-color);
+    color: #ffffff;
   }
   /*---------HEADER--------*/
   .logo {
@@ -44,7 +44,7 @@
   .menu-item:focus,
   .mail:hover,
   .mail:focus {
-    color: var(--menu-hover-color);
+    color: var(--background-btn-color);
   }
   .menu-item {
     font-weight: 500;
@@ -61,15 +61,18 @@
     color: var(--primary-text-color);
   }
   /*---------HERO--------*/
+  .team {
+    background: #f4f4fd;
+  }
   .hero {
-    background-color: var(--hero-footer-background-color);
+    background-color: var(--primary-text-color);
   }
   .hero-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--studio-btn-txt-color);
+    color: #ffffff;
   }
   .modal-btn {
     font-family: "Roboto", sans-serif;
@@ -78,8 +81,8 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     cursor: pointer;
-    background-color: var(--studio-btn-color);
-    color: var(--studio-btn-txt-color);
+    color: #ffffff;
+    background-color: #4d5ae5;
   }
   .modal-btn:hover,
   .modal-btn:focus {
@@ -147,6 +150,8 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--text-footer-color);
+    /* CORNFLOWER */
+    color: #E7E9FC;
   }
   /*---------PORTFOLIO--------*/
   .portfolio-btn:hover,
