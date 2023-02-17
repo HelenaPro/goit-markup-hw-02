@@ -33,7 +33,7 @@
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    color: var(--accent-color);
+    color: #4d5ae5;
   }
   .accent {
     color: var(accent-color);
