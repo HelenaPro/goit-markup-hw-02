@@ -51,6 +51,11 @@
     letter-spacing: 0.02em;
     color: var(--accent-color);
   }
+  .features-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--accent-color);
+  }
   .menu-contacts {
     font-style: normal;
     font-size: 16px;
