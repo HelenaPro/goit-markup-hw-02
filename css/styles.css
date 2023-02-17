@@ -18,7 +18,7 @@
   body {
     font-family: "Roboto", sans-serif;
     background-color: var(--studio-btn-txt-color);
-    color: var(--main-color);
+    color: var(--primari-color);
   }
   .list {
     list-style: none;
@@ -37,7 +37,7 @@
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    color: var(--main-color);
+    color: var(--primari-color);
   }
   .accent {
     color: var(--logo-web-color);
@@ -53,14 +53,14 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--main-color);
+    color: var(--primari-color);
   }
   .menu-contacts {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--second-txt-color);
+    color: var(--secondari-txt-color);
   }
   /*---------HERO--------*/
   .hero {
@@ -97,7 +97,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--second-txt-color);
+    color: var(--secondari-txt-color);
   }
   /*---------PROJECTS--------*/
   .work-title {
@@ -126,7 +126,7 @@
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--second-txt-color);
+    color: var(--secondari-txt-color);
   }
   /*---------FOOTER--------*/
   .footer {
@@ -138,15 +138,15 @@
     font-size: 18px;
     line-height: 1.16;
     align-items: center;
-    
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--footer-logo-color);
   }
   .text-footer {
     font-size: 16px;
     line-height: 1.5;
-    
-    color: var(--footer-text-color);
+    letter-spacing: 0.02em;
+    color: var(--footer-txt-color);
   }
   /*---------PORTFOLIO--------*/
   .portfolio-btn:hover,
@@ -168,11 +168,11 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--main-color);
+    color: var(--primari-color);
   }
   .portfolio-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--second-text-color);
+    color: var(--secondari-text-color);
   }
