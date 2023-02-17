@@ -33,10 +33,10 @@
     font-size: 18px;
     line-height: 1.33;
     letter-spacing: 0.03em;
-    color: #4d5ae5;
+    color: var(--accent-color)
   }
   .accent {
-    color: var(accent-color);
+    color: var(--logo-web-color);
   }
   .menu-item:hover,
   .menu-item:focus,
