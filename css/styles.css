@@ -1,5 +1,4 @@
 :root {
-    --font-family: "Roboto", sans-serif;
     --primari-text-color: #434455;
     --secondari-text-color: #2e2f42;
     --portfolio-btn-main-color: #f4f4fd;
@@ -8,7 +7,7 @@
     --studio-btn-txt-color: #ffffff;
     --background-btn-color: #404bbf;
     --hero-footer-background-color: #2e2f42;
-    --accent-color: #4d5ae5;
+    --logo-web-color: #4d5ae5;
     --menu-hover-color: #404bbf;
     --logo-footer-color: #f4f4fd;
     --text-footer-color: #e7e9fc;
