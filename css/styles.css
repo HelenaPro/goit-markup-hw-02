@@ -162,7 +162,7 @@
   .portfolio-btn:hover,
   .portfolio-btn:focus {
     background: var(--background-btn-color);
-    color: var(--portfolio-btn-hover-text-color);
+    color:#ffffff;
   }
   .portfolio-btn {
     font-family: "Roboto", sans-serif; 
