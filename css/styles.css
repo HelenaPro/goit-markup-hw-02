@@ -183,6 +183,9 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: var(--hero-footer-background-color);
+  }
+  .footer-studio {
     color: var(--logo-footer-color);
   }
   .text-footer {
