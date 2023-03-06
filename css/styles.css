@@ -1,15 +1,15 @@
 :root {
-    --accent-color: #434455;
-    --primary-text-color: #2e2f42;
-    --second-color: #4d5ae5;
-    --logo-web-color: #4d5ae5;
-    --portfolio-btn-main-color: #f4f4fd;
-    --portfolio-btn-txt-color: #4d5ae5;
-    --background-btn-color: #404bbf;
-    --hero-footer-background-color: #2e2f42;
-    --logo-footer-color: #4d5ae5;
-    --text-footer-color: #e7e9fc;
-  }
+  --accent-color: #434455;
+  --primary-text-color: #2e2f42;
+  --background-color: #4d5ae5;
+  --logo-web-color: #4d5ae5;
+  --portfolio-btn-main-color: #f4f4fd;
+  --portfolio-btn-txt-color: #4d5ae5;
+  --background-btn-color: #404bbf;
+  --hero-footer-background-color: #2e2f42;
+  --logo-footer-color: #f4f4fd;
+  --text-footer-color: #e7e9fc;
+}
   .list {
     list-style: none;
   }
@@ -42,7 +42,7 @@
     text-transform: uppercase;
     color: var(--primary-text-color)
   }
-  .accent {
+  .header-studio {
     color: var(--logo-web-color);
   }
   .menu-link {
