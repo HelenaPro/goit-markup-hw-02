@@ -1,13 +1,13 @@
 :root {
     --accent-color: #434455;
     --primary-text-color: #2e2f42;
-    --background-color: #4d5ae5;
-    --logo-web-color: #4d5ae5;
+    --second-color: #4d5ae5;
+    --logo-web-color: #2e2f42;
     --portfolio-btn-main-color: #f4f4fd;
     --portfolio-btn-txt-color: #4d5ae5;
     --background-btn-color: #404bbf;
     --hero-footer-background-color: #2e2f42;
-    --logo-footer-color: #f4f4fd;
+    --logo-footer-color: #4d5ae5;
     --text-footer-color: #e7e9fc;
   }
   .list {
@@ -40,7 +40,7 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--primary-text-color)
+    color: var(--second-color)
   }
   .accent {
     color: var(--logo-web-color);
