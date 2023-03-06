@@ -40,7 +40,7 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--second-color)
+    color: var(--primary-text-color)
   }
   .accent {
     color: var(--logo-web-color);
