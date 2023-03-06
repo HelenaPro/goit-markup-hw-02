@@ -2,6 +2,7 @@
   --accent-color: #434455;
   --primary-text-color: #2e2f42;
   --background-color: #4d5ae5;
+  --active-color: #404bbf;
   --logo-web-color: #4d5ae5;
   --portfolio-btn-main-color: #f4f4fd;
   --portfolio-btn-txt-color: #4d5ae5;
@@ -54,7 +55,7 @@
   }
   .menu-link:hover,
   .menu-link:focus, {
-    color: var(--accent-color)
+    color: var(--active-color)
   }
   .menu-link: :active {
     color: var(background-btn-color)
@@ -73,7 +74,7 @@
   }
   .contact-mail:hover,
   .contact-mail:focus{
-    color: var(--accent-color);
+    color: var(--active-color);
   }
   .contact-mail:active{
     color: var(background-btn-color);
@@ -87,7 +88,7 @@
   }
   .phone-number:hover,
   .phone-number:focus{
-    color: var(--accent-color);
+    color: var(--active-color);
   }
   .phone-number:active{
     color: var(background-btn-color); 
