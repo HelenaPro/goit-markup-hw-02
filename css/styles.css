@@ -2,9 +2,8 @@
     --accent-color: #434455;
     --primary-text-color: #2e2f42;
     --background-color: #4d5ae5;
-    --letter-spacing: 0.02em;
     --logo-web-color: #4d5ae5;
-    --hero-footer-background-color: #2e2f42;
+    --: #2e2f42;
     --portfolio-btn-main-color: #f4f4fd;
     --portfolio-btn-txt-color: #4d5ae5;
     --background-btn-color: #404bbf;
@@ -27,6 +26,7 @@
   }
    /*---------HEADER--------*/
    /* .page-header {
+    background: #FFFFFF;
    }
    .page-nav {
    }
@@ -58,7 +58,7 @@
     color: var (--accent-color)
   }
   .menu-link: :active {
-    color: var (--portfolio-btn-txt-color)
+    color: var (--primary-text-color)
   }
   .address {
     font-style: normal;
