@@ -64,18 +64,34 @@
     font-style: normal;
   }
   .menu-contacts {
+  }
+  .contact-mail {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--accent-color);
   }
-  .menu-contacts:hover,
-  .menu-contacts:focus{
+  .contact-mail:hover,
+  .contact-mail:focus{
     color: var(--accent-color);
   }
-  .menu-contacts:active{
+  .contact-mail:active{
     color: var(--portfolio-btn-txt-color);
+  }
+  .phone-number {
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--accent-color);
+  }
+  .phone-number:hover,
+  .phone-number:focus{
+    color: var(--accent-color);
+  }
+  .phone-number:active{
+    color: var(--portfolio-btn-txt-color); 
   }
   .features-text {
     font-size: 16px;
