@@ -6,6 +6,7 @@
   --logo-web-color: #4d5ae5;
   --portfolio-btn-color: #434455;
   --portfolio-btn-txt-color: #4d5ae5;
+  --portfolio-background: #f4f4fd;
   --background-btn-color: #404bbf;
   --hero-footer-background-color: #2e2f42;
   --logo-footer-color: #4d5ae5;
@@ -184,10 +185,10 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--text-footer-color);
+    color: var(--logo-footer-color);
   }
   .footer-studio {
-    color: var(--logo-footer-color);
+    color: var(--text-footer-color);
   }
   .text-footer {
     font-size: 16px;
@@ -211,7 +212,7 @@
     letter-spacing: 0.04em;
     cursor: pointer;
     color: var(--portfolio-btn-txt-color);
-    background-color: var(--portfolio-btn-color);
+    background-color: var(--portfolio-background);
   }
   .portfolio-title {
     font-size: 20px;
