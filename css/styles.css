@@ -56,10 +56,10 @@
   }
   .menu-link:hover,
   .menu-link:focus {
-    color: var(--active-color)
+    color: var(--active-color);
   }
   .menu-link:active {
-    color: var(background-btn-color)
+    color: var(--background-btn-color);
   }
   .address {
     font-style: normal;
@@ -215,6 +215,8 @@
     background-color: var(--portfolio-background);
   }
   .portfolio-title {
+    font-family: "Roboto", sans-serif; 
+    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -224,5 +226,5 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--portfolio-btn-color);
   }
