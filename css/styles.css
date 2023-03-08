@@ -80,20 +80,6 @@
   .contact-mail:active{
     color: var(--background-btn-color);
   }
-  .phone-number {
-    font-style: normal;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--accent-color);
-  }
-  .phone-number:hover,
-  .phone-number:focus{
-    color: var(--active-color);
-  }
-  .phone-number:active{
-    color: var(--background-btn-color); 
-  }
   .features-text {
     font-size: 16px;
     line-height: 1.5;
@@ -173,7 +159,7 @@
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--accent-color);
   }
   /*---------FOOTER--------*/
   .footer {
