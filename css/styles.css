@@ -184,10 +184,10 @@
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: var(--logo-footer-color);
+    color: var(--text-footer-color);
   }
   .footer-studio {
-    color: var(--text-footer-color);
+    color: var(--logo-footer-color);
   }
   .text-footer {
     font-size: 16px;
