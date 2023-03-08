@@ -123,6 +123,7 @@
     cursor: pointer;
     color: #ffffff;
     background-color: #4d5ae5;
+    border: none;
   }
   .modal-btn:hover,
   .modal-btn:focus {
@@ -213,6 +214,7 @@
     cursor: pointer;
     color: var(--portfolio-btn-txt-color);
     background-color: var(--portfolio-background);
+    border: none;
   }
   .portfolio-title {
     font-family: "Roboto", sans-serif; 
